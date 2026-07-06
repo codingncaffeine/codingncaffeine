@@ -8,4 +8,6 @@ I work heavily with Claude Code.
 
 Reach me on Linkedin https://www.linkedin.com/in/itsysop/ for work, or open an issues on any of the projects repos for code questions.
 
-[![Support me on Ko-fi](https://storage.ko-fi.com/cdn/cup-border.png)](https://ko-fi.com/A0A31TXFPV)
+<a href="https://ko-fi.com/A0A31TXFPV" target="_blank">
+  <img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Support me on Ko-fi" height="36" />
+</a>
