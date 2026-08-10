@@ -6,7 +6,7 @@ My main project is [Emutastic](https://github.com/codingncaffeine/Emutastic), a 
 
 I work heavily with Claude Code.
 
-Reach me on Linkedin https://www.linkedin.com/in/itsysop/ for work, or open an issues on any of the projects repos for code questions.
+Reach me on Linkedin https://www.linkedin.com/in/itsysop/ for work, or open an issue on any of the projects repos for code questions.
 
 Buy me a coffee to show your thanks.
 <a href="https://ko-fi.com/A0A31TXFPV" target="_blank">
